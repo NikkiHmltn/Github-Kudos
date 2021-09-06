@@ -1,0 +1,3 @@
+As an authenticated user I want to favorite an github open source project
+As an authenticated user I want to unfavorite an github open source project
+As an authenticated user I want to list all bookmarked github open source projects I’ve previously favorited
